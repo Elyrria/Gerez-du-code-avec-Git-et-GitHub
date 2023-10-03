@@ -1,15 +1,27 @@
-h1{
+h1 {
     color: rgb(180, 41, 87);
     text-align: center;
 }
 
-p{
+p {
     text-align: center;
     font-size: 1.5em;
     font-weight: bold;
 }
 
-ol{
+ol {
     font-size: 1.3em;
     font-style: italic;
+}
+
+h2 {
+    color: rgb(185, 10, 500);
+    text-align: right;
+}
+
+.cube {
+    background-color: rgb(400, 200, 100);
+    width: 250px;
+    height: 50px;
+    margin: auto;
 }
